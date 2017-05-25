@@ -1,0 +1,2 @@
+# MyLinq
+Goal - learn Linq
